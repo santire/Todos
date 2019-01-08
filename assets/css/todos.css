@@ -26,6 +26,7 @@ li {
   background-color: #fff;
   height: 40px;
   line-height: 40px;
+  padding-left: 20px;
   color: #666;
 }
 
@@ -59,17 +60,12 @@ li:hover span {
 .delete {
   background-color: #e74e3c;
   height: 40px;
-  margin-right: 20px;
+  margin-left: 20px;
   text-align: center;
   color: #fff;
   opacity: 0;
   width: 0;
-  display: inline-block;
-}
-
-.fa-plus{
   float: right;
-  color: #fff;
 }
 
 .completed {
