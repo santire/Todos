@@ -56,6 +56,10 @@ li:hover span {
   transition: 0.2s linear;
   opacity: 1;
 }
+.fa-plus{
+  float: right;
+  color: #fff;
+}
 
 .delete {
   background-color: #e74e3c;
